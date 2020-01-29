@@ -13,6 +13,8 @@ function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
     var sentence = "It was really" + "hot" + ", and we" + "laughed" + "ourselves" + "silly.";
     // Your code above this line
 
+                                  //just makinhg sure it sinks in this time-third time is a charm//
+
   return result;
 }
 
